@@ -1,0 +1,57 @@
+<!--This was written in HTML as practice for myself and because I needed a resume!-->
+<style>
+h1 {
+	font-family: Times, seriff;
+	margin:0;
+	padding:0;
+	}
+h2 {
+	font-family: Times, seriff;
+	margin:0;
+	padding:0;
+	}
+h3 {
+	font-family: Times, seriff;
+	margin:0;
+	padding:0;
+	}
+p	{
+	front-family: Times, Seriff;
+	}
+	
+</style>
+<center><h1>Brandon Douglas</h1>
+	<h2>75178 Fern Creek Dr.</h2>
+	<h2>Yulee, FL 32097</h2>
+	<h3>Email: BDOUGLAS0785@gmail.com</h3>
+</center>
+
+<hr width="100%">
+
+<h1 style="margin-left:40px">Summary</h1>
+	<p style="margin-left:40px"> U.S. Navy veteran with over 13 years of Honorable service, spanning from December 2005 to present.  Experience includes managing a team of over 70 personnel to accomplish the Navy's mission on board a U.S. Navy warship.  I am a motivated self starter who loves to learn, I have gained a large range of experience from clerical work such as using Microsoft Excel for spreadsheets and Microsoft Word for writing personnel awards.  I am a IFSAC certified Firefighter courtesy of the Military.  Over the years I developed an affinity for computers and technology.  I have taught myself HTML and am learning SQL and PHP.  I am proficient at disassembly and assembly of computer hardware and implementing software as well.</p>
+	
+<h1 style="margin-left:40px">Experience</h1>
+<h3 style="margin-left:40px">Supervisor: December 2016 - November 2017</h3>
+	<li style="margin-left:40px">Supervised over 70 personnel from various backgrounds to achieve goals on U.S. Navy warship.</li>
+	<li style="margin-left:40px">Managed over $200,000 worth of equipment.</li>
+	<li style="margin-left:40px">Wrote over 15 military training scenarios.</li>
+<p>		
+<h3 style="margin-left:40px">Firefighter, Naval Support Activity Bahrain: November 2015 - November 2016</h3>
+	<li style="margin-left:40px">Graduated from the Louis F. Garland Fire Academy on Goodfellow, AFB, San Angelo, TX.
+	<li style="margin-left:40px">Responded to 2 rear world fires that resulted in no loss of life and minor property damage.
+	<li style="margin-left:40px">Initiated and lead Naval Support Activity Bahrain's Shipboard Firefighting Program.
+	<li style="margin-left:40px">Handled an inventory in excess of $150,000.
+<p>
+<h1>Other Experience</h1>
+<p>
+<h3>Computer Programs</h3>
+	<li style="margin-left:40px">MS Excel
+	<li style="margin-left:40px">Notepad
+	<li style="margin-left:40px">Notepad++
+	<li style="margin-left:40px">MS Word
+<h3>Computer Languages</h3>
+	<li style="margin-left:40px">HTML
+	<li style="margin-left:40px">SQL
+	<li style="margin-left:40px">SQF
+	<li style="margin-left:40px">PHP
